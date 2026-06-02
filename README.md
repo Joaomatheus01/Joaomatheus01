@@ -52,12 +52,3 @@
 
 ---
 
-## 📚 Atualmente Aprendendo
-
-```txt
-Python           █████████░░ 85%
-Linux Ubuntu     ████████░░░ 80%
-C++              ██████░░░░░ 60%
-Arduino          ██████░░░░░ 60%
-Eng. Software    ████████░░░ 80%
-Windows CMD      ███████░░░░ 70%
