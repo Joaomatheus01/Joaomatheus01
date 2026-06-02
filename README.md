@@ -64,6 +64,7 @@
   </a>
 </p>
 ```
+<hr> <!-- FRASE --> <h3 align="center"> 🚀 Transformando aprendizado em projetos e projetos em experiência. </h3>
 
 
 <p align="center">
