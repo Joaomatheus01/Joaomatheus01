@@ -13,14 +13,12 @@
 
 📚 Atualmente estou estudando e desenvolvendo projetos com foco em:
 
-<p align="center">
 🐍 Python<br>
 🐧 Linux Ubuntu<br>
 ⚙️ Engenharia de Software<br>
 🤖 Arduino<br>
 💻 C++<br>
 🖥️ Windows CMD
-</p>
 🎯 Meu objetivo é aprimorar minhas habilidades técnicas e participar de projetos que gerem impacto real.
 
 ---
