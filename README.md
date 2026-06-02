@@ -65,5 +65,7 @@
 ```
 
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=João+Matheus+Vieira+Guedes;Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+Linux+%7C+C%2B%2B+%7C+Arduino;Sempre+aprendendo+novas+tecnologias" />
+</p>
 
