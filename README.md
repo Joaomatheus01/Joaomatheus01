@@ -50,5 +50,21 @@
 
 ✅ Comprometimento
 
+
+```html
+<h2 align="center">📫 Contato</h2>
+
+<p align="center">
+  📧 <a href="mailto:jmmaster417@gmail.com">jmmaster417@gmail.com</a>
+</p>
+
+<p align="center">
+  💼 <a href="https://br.linkedin.com/in/jo%C3%A3o-matheus-vieira-guedes-66b1813b9">
+    LinkedIn
+  </a>
+</p>
+```
+
+
 ---
 
