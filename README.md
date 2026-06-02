@@ -54,9 +54,7 @@
 
 <h2 align="center">📫 Contato</h2>
 
-<p align="center">
-  📧 <a href="mailto:jmmaster417@gmail.com">jmmaster417@gmail.com</a>
-</p>
+<!-- CONTATO --> <h2 align="center">📫 Conecte-se Comigo</h2> <p align="center"> <a href="mailto:jmmaster417@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 <p align="center">
   💼 <a href="https://br.linkedin.com/in/jo%C3%A3o-matheus-vieira-guedes-66b1813b9">
