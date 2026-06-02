@@ -51,7 +51,6 @@
 ✅ Comprometimento
 
 
-```html
 <h2 align="center">📫 Contato</h2>
 
 <p align="center">
